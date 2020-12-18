@@ -91,7 +91,7 @@ class Result extends Component {
                         <FontAwesomeIcon icon={faArrowLeft} size="2x"/>
                     </SLink>
                     <SLink to={{
-                        pathname: "/check",
+                        pathname: "/result",
                         data: AnswerCollecter.props
                     }}>
                         <FontAwesomeIcon icon={faSearch} size="2x"/>
