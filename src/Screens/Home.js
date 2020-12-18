@@ -3,9 +3,13 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowLeft, faSearch } from "@fortawesome/free-solid-svg-icons"
+
 const Header = styled.div`
     display: flex;
     justify-content: space-between;
+`;
+const SLink = styled(Link)`
+    color: black;
 `;
 const Title = styled.div`
     display: flex;
@@ -32,7 +36,9 @@ const Btn = styled(Link)`
     background-color: #81ecec;
     border: 2px solid black;
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 700;
+    color: #2d3436;
+    text-decoration: none;
 `;
 const Map = styled.div`
     display: flex;
@@ -54,10 +60,14 @@ const Find = styled.div`
 `;
 const home = () => {
     return (
-        <article>
+        <>
             <Header>
-                <FontAwesomeIcon icon={faArrowLeft} size="2x"/>
-                <FontAwesomeIcon icon={faSearch} size="2x"/>
+                <SLink to="/">
+                    <FontAwesomeIcon icon={faArrowLeft} size="2x"/>
+                </SLink>
+                <SLink to="/result">
+                    <FontAwesomeIcon icon={faSearch} size="2x"/>
+                </SLink>
             </Header>
             <Title>Corona Blue Checker</Title>
             <Form>
@@ -65,7 +75,7 @@ const home = () => {
             </Form>
             <Map>find depression state in korea</Map>
             <Find>사용법 확인</Find>
-        </article>
+        </>
     );
 };
 
