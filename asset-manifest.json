@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coronabluechecker/static/js/main.1e47cf48.chunk.js",
+    "main.js.map": "/coronabluechecker/static/js/main.1e47cf48.chunk.js.map",
+    "runtime-main.js": "/coronabluechecker/static/js/runtime-main.a343fce8.js",
+    "runtime-main.js.map": "/coronabluechecker/static/js/runtime-main.a343fce8.js.map",
+    "static/js/2.d3c03db3.chunk.js": "/coronabluechecker/static/js/2.d3c03db3.chunk.js",
+    "static/js/2.d3c03db3.chunk.js.map": "/coronabluechecker/static/js/2.d3c03db3.chunk.js.map",
+    "index.html": "/coronabluechecker/index.html",
+    "static/js/2.d3c03db3.chunk.js.LICENSE.txt": "/coronabluechecker/static/js/2.d3c03db3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a343fce8.js",
+    "static/js/2.d3c03db3.chunk.js",
+    "static/js/main.1e47cf48.chunk.js"
+  ]
+}
