@@ -49,7 +49,6 @@ class AnswerCollecter extends Component {
     componentWillMount() {
         const { steps } = this.props;
         const { one, two, three } = steps;
-    
         this.setState({ one, two, three });
     }
     render() {
