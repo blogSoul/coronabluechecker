@@ -75,7 +75,7 @@ const home = () => {
                 <Btn to="/result">CHECK</Btn>
             </Form>
             <a href="https://spckorea-stat.or.kr/korea03.do" target="_blank" rel="noreferrer">
-                <Map>find depression state in korea</Map>
+                <Map>Find depression state in korea</Map>
             </a>
             <Link to="/manual">
                 <Find>사용법 확인</Find>
