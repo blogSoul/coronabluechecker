@@ -78,6 +78,7 @@ const DLink = styled(Link)`
 const Strong = styled.span`
     font-weight: 600;
     color: #0984e3;
+    font-size: 25px;
 `;
 class Check extends Component {
     render() {
@@ -128,6 +129,31 @@ class Check extends Component {
         var url = "/check/"+ max_index;
         console.log(feelingstate);
         console.log(max_index);
+        if(max === 0){
+            return (
+                <>
+                    <Header>
+                        <SLink to="/result">
+                            <FontAwesomeIcon icon={faArrowLeft} size="2x"/>
+                        </SLink>
+                        <SLink to="/result">
+                            <FontAwesomeIcon icon={faSearch} size="2x"/>
+                        </SLink>
+                    </Header>
+                    <Errortitle>Test result</Errortitle>
+                    <Errordiv>
+                    </Errordiv>
+                    <Errordiv>
+                        <p><Strong>나쁜 감정에 대한 감성지수가 나타나지 않았습니다!</Strong> 왼쪽 상단 화살표를 눌러 첫화면으로 이동하세요!</p>
+                    </Errordiv>
+                    <Footer>
+                        <SLink to="/">
+                            <span>Go to first page</span>
+                        </SLink>
+                    </Footer>
+                </>
+            );
+        }
         return (
             <>
                 <Header>
