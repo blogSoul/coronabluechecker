@@ -70,7 +70,7 @@ const home = () => {
                     <FontAwesomeIcon icon={faSearch} size="2x"/>
                 </SLink>
             </Header>
-            <Title>Corona Blue Checker</Title>
+            <Title>Corona Blue Test</Title>
             <Form>
                 <Btn to="/result">CHECK</Btn>
             </Form>
