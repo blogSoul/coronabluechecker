@@ -46,8 +46,7 @@ const Map = styled.div`
     align-items: center;
     font-size: 30px;
     color: black;
-    border-bottom: 2px solid black;
-    margin: 50px 20px 30px 20px;
+    margin: 50px 20px 20px 20px;
     font-size: 20px;
     font-weight: 500;
 `;
@@ -57,6 +56,7 @@ const Find = styled.div`
     align-items: center;
     font-size: 15px;
     color: #6c5ce7;
+    font-size: 20px;
     font-weight: 600;
 `;
 const home = () => {
@@ -74,9 +74,7 @@ const home = () => {
             <Form>
                 <Btn to="/result">CHECK</Btn>
             </Form>
-            <a href="https://spckorea-stat.or.kr/korea03.do" target="_blank" rel="noreferrer">
-                <Map>Find depression state in korea</Map>
-            </a>
+            <Map></Map>
             <Link to="/manual">
                 <Find>사용법 확인</Find>
             </Link>
