@@ -37,18 +37,18 @@ Corona Blue Checker code site: [**Go to Link**](https://github.com/s10th24b/Coro
   [**발표자료 보러가기**](https://github.com/blogSoul/coronabluechecker/blob/master/README/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)
 
 - ### UI SCREEN
-   <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오1.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오2.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오2_1.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오3.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오4.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오5.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오6.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오7.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오8.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오9.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오10.png" width="200" height="300" />
-  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오11.png" width="200" height="300" />
+   <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A41.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오2.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오2_1.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오3.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오4.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오5.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오6.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오7.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오8.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오9.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오10.PNG" width="200" height="300" />
+  <img src="https://github.com/blogSoul/coronabluechecker/blob/master/README/img/시나리오11.PNG" width="200" height="300" />
 
 ## :footprints: UPGRADE
 
